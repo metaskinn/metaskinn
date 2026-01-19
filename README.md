@@ -2,7 +2,7 @@
 
 # Hi, I’m Meltem <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
 
-I’m a **42 Türkiye** student focused on **C**, **Python**, and building a strong foundation for **AI & Cognitive Science**.
+I’m a **42 Türkiye cadet** focusing on **C**, **Python**, and building a solid foundation for **AI & Cognitive Science**.
 <br/>
 
 <br/>
